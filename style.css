@@ -111,4 +111,10 @@ body{
     transform: translateX(-50%);
 
 }
+
+.logo li{
+    font-size: 15rem;
+    color: rgba(50, 231, 255, 0.8);
+    text-shadow: .1rem .1rem .2rem #ddd,-0.1rem -0.1rem 0.2rem #ddd;
+}
 /*end of section-1*/
