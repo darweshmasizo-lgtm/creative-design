@@ -62,5 +62,12 @@ body{
     }
 }
 
+.navbar{
+    position: relative;
+    z-index: 20;
+    top: 4rem;
+    display: flex;
+    justify-content: space-evenly;
+}
 
 /*end of section-1*/
