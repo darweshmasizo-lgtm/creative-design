@@ -33,6 +33,7 @@ html{
     top: 15%;
     left: calc(50% - 35rem);
     border-radius: 45%;
+    animation: rotate 30s infinite;
 }
 
 .floating-bg::before{
@@ -44,9 +45,18 @@ html{
     top: 0;
     left: 0;
     border-radius: 40%;
+    animation: rotate 30s infinite;
 }
 
+@keyframes rotate{
+    0%{
+        transform: rotate(0);
+    }
 
+    100%{
+        transform: rotate(360deg);
+    }
+}
 
 
 /*end of section-1*/
