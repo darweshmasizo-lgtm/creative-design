@@ -32,6 +32,7 @@ html{
     position: absolute;
     top: 15%;
     left: calc(50% - 35rem);
+    border-radius: 45%;
 }
 
 .floating-bg::before{
@@ -41,7 +42,8 @@ html{
     background-color: rgba(50, 231, 255, 0.1);
     position: absolute;
     top: 0;
-    left: 20;
+    left: 0;
+    border-radius: 40%;
 }
 
 
