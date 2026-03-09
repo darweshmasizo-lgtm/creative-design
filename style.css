@@ -77,5 +77,13 @@ body{
     color: #fff;
     width: 1.5rem;
     word-wrap: break-word;
+    text-align: center;
+    transition: all 0.5s;
+}
+
+.navbar-link:hover{
+    width: 15rem;
+    background-color: rgba(255, 255, 255, 0.2);
+    transition: all 2.5s;
 }
 /*end of section-1*/
