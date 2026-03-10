@@ -233,6 +233,11 @@ color: #f08e0f;
     box-shadow: 1rem 1rem 2rem
     #ddd,-1rem -1rem 2rem #eee;
     position: relative;
+    opacity: .7;
+}
+
+.team-member:hover{
+    opacity: 1;
 }
 
 .team-member:first-child{
