@@ -303,4 +303,11 @@ color: #f08e0f;
     align-items: center;
     padding: 2rem;
 }
+
+.story-heading{
+    font-size: 4rem;
+    font-weight: 700;
+    color: #fff;
+    margin-bottom: 2rem;
+}
 /*end of section 3*/
