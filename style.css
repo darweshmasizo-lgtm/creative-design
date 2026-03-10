@@ -261,6 +261,13 @@ color: #f08e0f;
     color: #505050;
 }
 
+.projects-btn{
+    background-color: #fab34a;
+    color: #fff;
+    padding: 0.5rem 1.5rem;
+    border-radius: 5rem;
+}
+
 .story{
     display: none;
 }
