@@ -284,6 +284,11 @@ color: #f08e0f;
     padding: 0.5rem;
     cursor: pointer;
     z-index: 50;
+    transition: transform 0.5s;
+}
+
+.change.story-btn{
+    transform: rotate(405deg);
 }
 
 .story-btn-line{
