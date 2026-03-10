@@ -310,6 +310,15 @@ color: #f08e0f;
     align-items: center;
     padding: 2rem;
     transform: scale(0);
+    transform-origin: top right;
+    border-radius: 50rem 0 50rem 
+    50rem;
+    transition: all 0.5s;
+}
+
+.change.story{
+    transform: scale(1);
+    border-radius: 0;
 }
 
 .story-heading{
