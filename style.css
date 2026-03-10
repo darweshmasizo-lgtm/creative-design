@@ -145,6 +145,18 @@ body{
     align-items: center;
 }
 
+.customer{
+    width: 35rem;
+    height: 50rem;
+    background-color: #999;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: .5rem;
+    padding: 2rem;
+    box-shadow: 1rem 1rem 2rem #ddd, -1rem -1rem 2rem #999;
+}
+
 .Customer-img{
     width: 10rem;
     height: 10rem;
