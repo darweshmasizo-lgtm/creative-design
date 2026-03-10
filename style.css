@@ -232,6 +232,7 @@ color: #f08e0f;
     padding: 1rem 1rem 2rem 1rem;
     box-shadow: 1rem 1rem 2rem
     #ddd,-1rem -1rem 2rem #eee;
+    position: relative;
 }
 
 .team-member-img{
@@ -268,6 +269,16 @@ color: #f08e0f;
     border-radius: 5rem;
     font-size: 1.5rem;
     letter-spacing: 0.2rem;
+}
+
+.story-btn{
+    width: 4rem;
+    height: 4rem;
+    background-color: #222;
+    position: absolute;
+    top: -1rem;
+    right: -1rem;
+    border-radius: 5rem;
 }
 
 .story{
