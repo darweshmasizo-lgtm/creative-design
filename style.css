@@ -161,6 +161,10 @@ body{
 .customer:first-child{
     align-self: flex-end;
 }
+
+.customer:last-child{
+    align-self: flex-start;
+}
 .Customer-img{
     width: 10rem;
     height: 10rem;
