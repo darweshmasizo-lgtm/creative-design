@@ -234,5 +234,7 @@ color: #f08e0f;
     #ddd,-1rem -1rem 2rem #eee;
 }
 
-
+.story{
+    display: none;
+}
 /*end of section 3*/
