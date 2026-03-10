@@ -125,5 +125,11 @@ body{
     height: 100vh;
 }
 
+.Customer-img{
+    width: 10rem;
+    height: 10rem;
+    object-fit: cover;
+}
+
 
 /*end of section-2*/
