@@ -177,6 +177,10 @@ body{
     text-align: justify;
 }
 
+.customer-text::first-letter{
+    margin-left: 1rem;
+}
+
 .Customer-img{
     width: 10rem;
     height: 10rem;
