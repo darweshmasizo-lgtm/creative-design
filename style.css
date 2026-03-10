@@ -19,6 +19,16 @@ html{
 body{
     overflow-x: hidden;
 }
+
+.section-heading{
+    font-size: 10rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #999;
+    text-align: center;
+    opacity: 0.1;
+    text-shadow: 2rem 2rem 4rem #aaa;
+}
 /*end of common style*/
 
 /*section-1*/
@@ -129,15 +139,7 @@ body{
 
 }
 
-.section-heading{
-    font-size: 10rem;
-    font-weight: bold;
-    text-transform: uppercase;
-    color: #999;
-    text-align: center;
-    opacity: .1;
-    text-shadow: 2rem 2rem 4rem #aaa;
-}
+
 
 .Customers-wrapper{
     display: flex;
@@ -217,7 +219,12 @@ color: #f08e0f;
     padding: 5rem 0;
  }
 
-
+.team-wrapper{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 70%;
+}
 
 
 /*end of section 3*/
