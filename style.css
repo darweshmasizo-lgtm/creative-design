@@ -235,6 +235,15 @@ color: #f08e0f;
     position: relative;
 }
 
+.team-member:first-child{
+    align-self: flex-start;
+}
+
+.team-member:last-child{
+    align-self: flex-end;
+}
+
+
 .team-member-img{
     width: 100%;
     border-radius: 0.5rem;
