@@ -16,6 +16,11 @@ html{
     font-size: 62.5%;
 }
 
+.container{
+    width: 100%;
+    overflow-x: 100;
+}
+
 body{
     overflow-x: hidden;
 }
@@ -234,6 +239,7 @@ color: #f08e0f;
     #ddd,-1rem -1rem 2rem #eee;
     position: relative;
     opacity: .7;
+    transition: opacity 0.5s;
 }
 
 .team-member:hover{
