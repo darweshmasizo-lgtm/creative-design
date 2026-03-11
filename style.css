@@ -388,4 +388,14 @@ color: #f08e0f;
     box-shadow: -3rem 3rem 4rem 4rem #aaa;
     border-radius: 0.5rem;
 }
+
+.contact-form{
+    width: 45rem;
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    padding: 3rem;
+    border-radius: 0.5rem;
+    box-shadow: 3rem 3rem 4rem #aaa;
+}
 /*end of section 4*/
