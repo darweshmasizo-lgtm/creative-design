@@ -377,6 +377,15 @@ color: #f08e0f;
     justify-content: space-evenly;
     box-shadow: .3rem .3rem .4rem #ccc,-0.1rem -0.1rem 0.4rem #ccc;
     border-radius: 0.5rem;
-    
-}   
+
+}  
+
+.form-img{
+    width: 55rem;
+    background-color: rgba(50, 231, 255, 0.8);
+    padding: 5rem;
+    opacity: 0.8;
+    box-shadow: -3rem 3rem 4rem 4rem #aaa;
+    border-radius: 0.5rem;
+}
 /*end of section 4*/
