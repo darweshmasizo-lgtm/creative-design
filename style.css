@@ -417,4 +417,12 @@ color: #f08e0f;
     max-width: 100%;
     min-width: 70%;
 }
+
+.contact-form input[type="submit"]{
+ background-color: rgba(50, 231, 255, 0.8);
+ color: #fff;
+ font-weight: bolder;
+ letter-spacing: 0.5rem;
+ cursor: pointer;
+}
 /*end of section 4*/
