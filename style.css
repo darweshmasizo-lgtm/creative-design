@@ -494,7 +494,17 @@ color: #f08e0f;
     .navbar-link{
         font-size: 2rem;
     }
-    .logo
+    .logo{
+        top: 75%;
+    } 
+    .logo i {
+        font-size: 10rem;
+    }
+
+    .csection-heading {
+        font-size: 8rem;
+        margin-bottom: 10rem;
+    } 
 }
 
 
