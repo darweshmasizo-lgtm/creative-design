@@ -377,7 +377,7 @@ color: #f08e0f;
     justify-content: space-evenly;
     box-shadow: .3rem .3rem .4rem #ccc,-0.1rem -0.1rem 0.4rem #ccc;
     border-radius: 0.5rem;
-
+    perspective: 100rem;
 }  
 
 .form-img{
@@ -387,6 +387,14 @@ color: #f08e0f;
     opacity: 0.8;
     box-shadow: -3rem 3rem 4rem 4rem #aaa;
     border-radius: 0.5rem;
+    transform: rotateY(20deg);
+    transition: all 0.3s;
+}
+
+.form-img:hover{
+    transform: translateY(-2rem)
+    rotateY(20deg);
+    box-shadow: -5rem 3rem 7rem #aaa;
 }
 
 .contact-form{
@@ -397,6 +405,7 @@ color: #f08e0f;
     padding: 3rem;
     border-radius: 0.5rem;
     box-shadow: 3rem 3rem 4rem #aaa;
+    transform: rotateY(-20deg);
 }
 
 .contact-form input,
@@ -424,5 +433,10 @@ color: #f08e0f;
  font-weight: bolder;
  letter-spacing: 0.5rem;
  cursor: pointer;
+ transition: backgrount-color 0.5s;
+}
+
+.contact-form input[type="submit"]:hover{
+ background-color: #32e7ff;
 }
 /*end of section 4*/
