@@ -505,6 +505,30 @@ color: #f08e0f;
         font-size: 8rem;
         margin-bottom: 10rem;
     } 
+
+    .section-2 {
+        height: auto;
+    }
+
+    .Customers-wrapper{
+        flex-wrap: wrap;
+    }
+
+    .customer{
+        margin: 5rem 10rem;
+    }
+
+    .section-3{
+        height: auto;
+    }
+
+    .team-wrapper{
+        flex-wrap: wrap;
+    }
+
+    .team-member{
+        margin: 5rem 10rem;
+    }
 }
 
 
