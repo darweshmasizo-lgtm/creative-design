@@ -529,8 +529,33 @@ color: #f08e0f;
     .team-member{
         margin: 5rem 10rem;
     }
+
+    .form-container{
+        height: 60%;
+    }
+
+    .form-img{
+        display: none;
+    }
+
+    .contact-form{
+        transform: translateY(0);
+    }
+
+    .contact-form:hover{
+       transform: translateY(-1rem); 
+    }
+
+    .copyright{
+        margin: 5rem 0 4rem 0;
+    }
 }
 
+@media(max-with: 1150px){
+    .floating-bg{
+        top:-110vw
+    }
+}
 
 
 /*end of responsive*/
