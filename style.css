@@ -567,5 +567,21 @@ color: #f08e0f;
     }
 }
 
+@media(max-width:950){
+    .floating-bg{
+        top: -100vw;
+    }
+
+    .section-1-heading{
+        top: 40vw;
+    }
+
+    .navbar{
+        justify-content: space-around;
+    }
+
+    
+}
+
 
 /*end of responsive*/
