@@ -488,8 +488,13 @@ color: #f08e0f;
         font-size: 6rem;
         top: 25vw;
         width: 70rem;
-        
+
     }
+
+    .navbar-link{
+        font-size: 2rem;
+    }
+    .logo
 }
 
 
