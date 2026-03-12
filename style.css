@@ -477,3 +477,14 @@ color: #f08e0f;
 .scroll-up-btn:hover{
     background-color: #32e7ff;
 }
+
+/*responsive*/
+@media(max-width: 1400px){
+    .floating-bg{
+        top: -120vw;
+    }
+}
+
+
+
+/*end of responsive*/
