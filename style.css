@@ -458,3 +458,9 @@ color: #f08e0f;
   margin-top: 5rem;  
 }
 /*end of section 4*/
+
+.scroll-up-btn{
+    width: 5rem;
+    height: 5rem;
+    background-color: rgba(50, 231, 255, 0.8);
+}
